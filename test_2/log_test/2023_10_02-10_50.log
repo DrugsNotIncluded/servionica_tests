@@ -1,0 +1,1 @@
+[{'reason': 'Not Found', 'status_code': 404, 'url': 'http://example.com/service1'}, {'reason': 'Not Found', 'status_code': 404, 'url': 'http://example.com/service2'}, {'reason': 'OK', 'status_code': 200, 'url': 'http://192.168.1.1'}, {'reason': 'OK', 'status_code': 200, 'url': 'https://github.com'}]

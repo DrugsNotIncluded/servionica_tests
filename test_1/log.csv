@@ -1,0 +1,3 @@
+server|user|connect_date|status_code
+localhost|meow|1488|poebat
+localhost|user_name|unix_timestamp|success or error or permission denied
