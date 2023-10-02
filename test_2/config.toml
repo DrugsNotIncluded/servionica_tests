@@ -1,9 +1,7 @@
 [Services]
-Service1 = "http://example.com/service1"
-Service2 = "http://example.com/service2"
-Service3 = "http://192.168.1.1"
-Service4 = "https://github.com"
-Service5 = "http://127.0.0.0:8000"
+Service1 = "http://127.0.0.1:5000"
+Service2 = "http://127.0.0.1:5001"
+Service3 = "http://127.0.0.1:5002"
 
 [Notification]
 Type = "email"
