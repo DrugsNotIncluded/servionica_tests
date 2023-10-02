@@ -11,3 +11,9 @@
 
 ![image](https://github.com/DrugsNotIncluded/servionica_tests/assets/65225927/07c8093b-f4f9-4538-a356-8bb33247378e)
 
+### Тесты:
+Тестовые сервера запускаются утилитой test.py в директории tests
+"http://127.0.0.1:5000" - 200
+"http://127.0.0.1:5001" - 300
+"http://127.0.0.1:5002" - 400
+
